@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Gemini_Generated_Image_n67x1ln67x1ln67x.png" alt="Manoj - Web Developer Banner">
-</p>
-
 <div align="center">
 
 <a href="https://github.com/MANOJ-user-source">
