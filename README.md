@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Manoj - Web Developer Banner">
+  <img src="Gemini_Generated_Image_n67x1ln67x1ln67x.png" alt="Manoj - Web Developer Banner">
 </p>
 
 <div align="center">
